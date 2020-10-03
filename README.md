@@ -4,6 +4,8 @@ You can watch the wiring and build video (here)[https://youtu.be/VVGln_-XEgI].
 
 [![Demo Video](https://img.youtube.com/vi/VVGln_-XEgI/0.jpg)](https://www.youtube.com/watch?v=VVGln_-XEgI)
 
+The circuit board and PCB are available (here)[https://easyeda.com/chris_9044/ics-43434-tindie]
+
 This project demonstrates how to use the ESP32 with the ICS-43434 break out board.
 
 You can buy the board on both ebay and Tindie:
