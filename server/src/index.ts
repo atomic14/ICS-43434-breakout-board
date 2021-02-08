@@ -21,6 +21,12 @@ app.post('/i2s_samples', (req, res) => {
   });
 });
 
+app.get('/ping', (req, res) => {
+  // tslint:disable-next-line:no-console
+  console.log('ESP32 is alive!');
+  res.send('OK');
+});
+
 // start the Express server
 app.listen(port, '0.0.0.0', () => {
   // tslint:disable-next-line:no-console
