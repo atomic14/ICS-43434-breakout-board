@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # ICS-43434 Sample Code
 
 You can watch the wiring and build video (here)[https://youtu.be/VVGln_-XEgI].
